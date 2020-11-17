@@ -1,0 +1,8 @@
+ABSTRACT
+
+The coffee shop management system is a general application developed particularly for coffee shop inventory/stock transactions. 
+This application collects the details of customers, orders, costs, supplier information and the inventory transactions. 
+This application is useful for all users in the coffee shop so that their transactions details become up to date. 
+The application is a suite of applications developed using Java. 
+It is simple to understand and can be used by anyone who is not even familiar with the coffee shop system. 
+It is user-friendly and just asks the user to follow step by step operations by giving him few options.
